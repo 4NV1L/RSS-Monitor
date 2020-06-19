@@ -1,5 +1,5 @@
 # RSS-Monitor
-Monitoring interesting events related to Cybersecurity. This is mainly focused on RSS collection to keep informed on whats happening in the industry. 
+Monitoring interesting events related to Cybersecurity. This is mainly focused on RSS collection to keep informed on whats happening in the industry. There is nothing highly technical here, just a collection of RSS that you can throw in a RSS Client or opml file.
 
 ## Gathered Information
 - Provided RSS Feeds 
