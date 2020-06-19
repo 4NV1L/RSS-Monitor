@@ -6,3 +6,5 @@ Monitoring interesting events related to Cybersecurity. This is mainly focused o
 - Basic Google Alerts for APTs (APT List from MITRE) 
 - Other Interesting Google Alerts
 - Notable Journalists 
+
+Note: *Basic Google Searches need to be set as an RSS through Google Alerts*
