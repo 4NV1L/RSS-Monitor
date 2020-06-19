@@ -1,0 +1,31 @@
+Other interesting content to monitor
+
+site:https://exposingtheinvisible.org/resources
+
+site:wikileaks.org ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml | sql | mdb)
+
+site:wikileaks.org intext:"Finding" OR intext:"Report" OR intext:"Cyber" OR intext:"leak" OR intext:"documents" OR intext:"email" OR intext:"new"
+
+intext:Charged OR intext:Indicted OR intext:Arrest AND ("Cyber" OR "Intrusion" OR "Hack" OR "Malware" OR "Phishing" OR "Fraud" OR "Conspiring")  site:justice.gov
+
+intext:Charged OR intext:Indicted OR intext:Arrest OR intext:counterintelligence OR intext:corruption AND (intext:"Cyber" OR intext:"Intrusion" OR intext:"Hack" OR intext:"Malware" OR intext:"Phishing" OR intext:"Fraud" OR intext:"Conspiring") site:justice.gov
+
+intext:Charged intext:Indicted intext:Arrest AND (intext:"sex trafficking") site:justice.gov
+
+intext:"Shadow Brokers" OR intext:"The Shadow Brokers" (intext:"Group" AND intext:"Security")
+
+intext:"Dark Overlord" OR intext:"The Dark OverLord" AND (intext:"Hacking Group" AND intext:"Security" OR intext:"cyber" OR intext:"Hacker Group")
+
+intext:"Anonymous" (intext:"Hacking Group" AND intext:"Security" OR intext:"cyber" OR intext:"Hacker Group")
+
+intext:"DDOS Attack" AND intitle:"DDoS Attack" AND inurl:news
+
+site:pastebin.com "mega.nz" AND "Dump"
+
+intext:"KGB" OR intext:"FSB" AND (intext:"Intelligence" OR intext:"cyber" OR intext:"APT" OR intext:"espionage" OR intext:"Threat" OR intext:"security") news report
+
+intext:"Mossad" OR intext:"Unit 8200" AND (intext:"Intelligence" OR intext:"cyber" OR intext:"APT" OR intext:"espionage" OR intext:"Threat" OR intext:"security") news report
+
+intext:"MI6" OR intext:"GCHQ" OR intext:"MI5" OR intext:"NCSC" AND (intext:"Intelligence" OR intext:"cyber" OR intext:"APT" OR intext:"espionage" OR intext:"Threat" OR intext:"security") news
+
+site:pastebin.com "webshell" OR "shell" OR "cryptominer" OR "backdoor" OR "Trojan" OR "0day"
