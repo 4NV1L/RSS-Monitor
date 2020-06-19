@@ -56,3 +56,5 @@ https://www.nsa.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=920&max
 https://www.grahamcluley.com/feed/
 https://www.cia.gov/news-information/your-news/cia-library/RSS.xml
 https://www.cia.gov/news-information/your-news/cia-newsroom/RSS.xml
+FBI CyberCrime News - https://rss.app/feeds/R1iln7f6RVc0RxAi.xml
+FBI CounterIntellgence News - https://rss.app/feeds/sUVjPijLL2DUJKmr.xml
